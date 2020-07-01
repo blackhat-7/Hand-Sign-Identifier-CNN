@@ -3,6 +3,10 @@
 
 A deep convolutional neural network model built with TensorFlow to recognize number signs made by a hand from 0 to 5 in sign language with a pretty impressive accuracy (80%), as well as execute them in a computation graph.
 
+## Requirements
+- Python3 or above
+- Jupyter notebook
+
 ## To Run
 - Add your own number sign image in the images folder
 - Open the Convolution_model_Application_v1a.ipynb file in jupyter notebook
